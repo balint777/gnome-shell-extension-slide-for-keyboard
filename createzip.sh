@@ -7,5 +7,5 @@
 
 
 echo "creating zip..."
-zip -j slideforkeyboard\@simon.schumann.web.de src/*
+zip -j slideforkeyboard\@olp.ctdi.eu src/*
 echo "done."
